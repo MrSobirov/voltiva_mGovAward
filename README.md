@@ -15,7 +15,7 @@ Sobirov Ibrohim - 4th-grade undergraduate student in IUT, Flutter Developer (t.m
 
 Saydivaliev Mukhammadsaid - 4th-grade undergraduate student in IUT, Flutter Developer (t.me/Sa_22_02)
 
-Rizakulov Akhadbek - 4th grade undergraduate student in IUT, Backend Developer (t.me/peedyM_282)
+Rizakulov Akhadbek - 4th grade undergraduate student in IUT, Backend Developer (t.me/SpeedyM_282)
 
 ## Features
 
