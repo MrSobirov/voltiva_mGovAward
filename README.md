@@ -5,11 +5,12 @@ VOLTIVA is an online platform and mobile application that serves as an aggregato
 ![Project Image](https://github.com/MrSobirov/voltiva_mGovAward/raw/main/Frame%204.png)
 
 ## Table of Contents
-- [Team members](#teammembers)
+- [Team members](#team)
 - [Features](#features)
+- [References](#references)
 
 
-## Team members
+## Team
 
 Sobirov Ibrohim - 4th-grade undergraduate student in IUT, Flutter Developer (t.me/MrSobirov2002)
 
@@ -32,4 +33,8 @@ By integrating both public and private charging stations, VOLTIVA significantly 
 Lastly, VOLTIVA prioritizes a superior user experience. The platform is designed with a user-friendly interface, ensuring that users can easily navigate the application and access the services they need. This focus on a seamless user experience adds an additional layer of convenience for EV drivers.
 
 
+## References
 
+Voltiva Video: https://youtu.be/TZeAo49DyPY
+
+Voltiva pitch: https://drive.google.com/file/d/1LaKn9v9rfvFnoegWwvF8W5HvHIoHOurV/view?usp=sharing
