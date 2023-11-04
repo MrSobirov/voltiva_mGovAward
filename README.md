@@ -12,9 +12,9 @@ VOLTIVA is an online platform and mobile application that serves as an aggregato
 
 ## Team
 
-Sobirov Ibrohim - 4th-grade undergraduate student in IUT, Flutter Developer (t.me/MrSobirov2002)
+Sobirov Ibrohim - 4th-grade undergraduate student in IUT, Mobile Developer (t.me/MrSobirov2002)
 
-Saydivaliev Mukhammadsaid - 4th-grade undergraduate student in IUT, Flutter Developer (t.me/Sa_22_02)
+Saydivaliev Mukhammadsaid - 4th-grade undergraduate student in IUT, Mobile Developer (t.me/Sa_22_02)
 
 Rizakulov Akhadbek - 4th grade undergraduate student in IUT, Backend Developer (t.me/SpeedyM_282)
 
