@@ -35,6 +35,8 @@ Lastly, VOLTIVA prioritizes a superior user experience. The platform is designed
 
 ## References
 
+Voltiva app: https://play.google.com/store/apps/details?id=uz.voltiva.app
+
 Voltiva Video: https://youtu.be/TZeAo49DyPY
 
 Voltiva pitch: https://drive.google.com/file/d/1LaKn9v9rfvFnoegWwvF8W5HvHIoHOurV/view?usp=sharing
